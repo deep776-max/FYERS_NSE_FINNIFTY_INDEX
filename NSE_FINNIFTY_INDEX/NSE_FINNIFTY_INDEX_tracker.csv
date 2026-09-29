@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+NSE_FINNIFTY_INDEX_20260929_114621,FINNIFTY-INDEX,FINNIFTY,50,True,True,22200,28500,5S|1|5|60|D
